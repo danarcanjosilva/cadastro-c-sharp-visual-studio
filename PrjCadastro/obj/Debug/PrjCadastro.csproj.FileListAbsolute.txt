@@ -1,0 +1,20 @@
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe.config
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.pdb
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Form1.resources
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Properties.Resources.resources
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.GenerateResource.Cache
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.exe
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.pdb
+C:\Users\Marta Arcanjo\Documents\Visual Studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csprojAssemblyReference.cache
+C:\Users\Marta Arcanjo\Documents\Visual Studio 2012\Projects\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe.config
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.pdb
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Form1.resources
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Properties.Resources.resources
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.GenerateResource.cache
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.exe
+C:\Users\daniel\source\repos\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.pdb
